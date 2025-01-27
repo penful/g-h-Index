@@ -32,6 +32,8 @@ gh_index.R 	 —>  compute the proposed g- and h-index
 
 port_weights.R  —> computes the portfolio weights, and relative portfolio returns according to  Maillard et al. (2010) 
 
+simulation_study2.R —> simulation study to analyze g and h index for varying variability and serial dependence
+
 #-----
 /Empirical illustration/
 
